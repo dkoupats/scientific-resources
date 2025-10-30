@@ -30,11 +30,11 @@ scientific-resources/
 │       ├── Reviews_31-60.docx     # Complete numbered series
 │       ├── ...                    # Professional naming
 │       └── README.md              # Comprehensive guide
-│   ├── all-reviews-split/         # 🆕 Individual Review Files (205 files) ✅
+│   ├── split-reviews-docx/        # 🆕 Individual Review Files (531 files) ✅
 │   │   ├── Review_001.docx        # Individual review documents
 │   │   ├── Review_002.docx        # Extracted from source DOCX files
-│   │   ├── ...                    # Complete series 1-207
-│   │   ├── Review_117b.docx       # Duplicate handling example
+│   │   ├── ...                    # Complete series 1-531
+│   │   ├── Review_531.docx        # Latest review
 │   │   └── README.md              # Usage guide
 ├── DL-papers-reviews-old/         # Legacy review collection
 ├── learning-materials/            # Educational resources and tutorials
@@ -44,12 +44,12 @@ scientific-resources/
 
 ## 🎯 Core Collections
 
-### 🆕 Complete Review Collection (all-reviews/) ✅
+### 🆕 Complete Review Collection (split-reviews-docx/) ✅
 
-- **520 Individual Files**: Complete unified collection (Reviews 1-520)
+- **531 Individual Files**: Complete unified collection (Reviews 1-531)
 - **Individual Reviews**: Reviews 1-208 with enhanced ArXiv links
-- **Daily Reviews**: Reviews 209-520 in chronological order (May 2024 - Oct 2025)
-- **Professional Naming**: `Review_001.docx` through `Review_520.docx`
+- **Daily Reviews**: Reviews 209-531 in chronological order (May 2024 - Oct 2025)
+- **Professional Naming**: `Review_001.docx` through `Review_531.docx`
 - **Searchable Content**: Each file independently searchable and editable
 - **Pure Content**: Daily reviews exactly as originally written
 - **Enhanced Features**: ArXiv links added to individual reviews
@@ -92,23 +92,23 @@ scientific-resources/
 
 ## 📊 Collection Statistics
 
-- **Total Paper Reviews**: 520 comprehensive analyses ✅ (UPDATED)
+- **Total Paper Reviews**: 531 comprehensive analyses ✅ (UPDATED)
 - **Individual Reviews**: 208 DOCX files with enhanced ArXiv links  
-- **Daily Reviews**: 312 DOCX files (May 2024 - Oct 2025)
-- **Unified Collection**: Single `all-reviews/` directory ✅ (NEW)
+- **Daily Reviews**: 323 DOCX files (May 2024 - Oct 2025)
+- **Unified Collection**: Single `split-reviews-docx/` directory ✅
 - **Source Collections**: 14+ documents (PDF + DOCX formats)
 - **Merged Collection**: 447-page comprehensive PDF (legacy)
 - **Total Collection Size**: 300+ MB across formats
 - **Coverage Period**: 2022-2025 cutting-edge research
-- **Organization**: Sequential Review_001 to Review_520 naming
+- **Organization**: Sequential Review_001 to Review_531 naming
 - **Processing Success Rate**: 100% extraction success ✅
 - **Languages**: Hebrew and English content
 
 ## 🚀 Getting Started
 
 ### Accessing Paper Reviews
-1. **Navigate** to `mike-paper-reviews-500/all-reviews/`
-2. **Choose Reviews**: Individual reviews (1-207) or Daily reviews (208-520)
+1. **Navigate** to `mike-paper-reviews-500/split-reviews-docx/`
+2. **Choose Reviews**: Individual reviews (1-208) or Daily reviews (209-531)
 3. **Open Files**: All reviews in searchable DOCX format
 4. **Reference Documentation**: Detailed README guides in each directory
 

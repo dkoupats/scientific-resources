@@ -121,7 +121,7 @@ Review_XXX,Title,https://arxiv.org/abs/XXXX.XXXXX
 **Coverage Period**: From early reviews to [Current Date]
 **Last Updated**: [Current Date]
 
-### `all-reviews/` - Unified Review Collection (XXX files)
+### `split-reviews-docx/` - Unified Review Collection (XXX files)
 #### **Reviews 208-XXX**: Daily Reviews (XXX files)
 - **Date Range**: May 30, 2024 to [Current Date]
 
