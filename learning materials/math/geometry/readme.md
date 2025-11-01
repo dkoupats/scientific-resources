@@ -2,6 +2,29 @@
 
 ## 📄 Available Materials
 
+### A Geometric Analysis of PCA
+
+**Overview**: Geometric perspective on Principal Component Analysis (PCA), exploring the mathematical foundations and geometric interpretations of dimensionality reduction techniques.
+
+**Key Topics**:
+- Geometric interpretation of PCA
+- Principal component geometry and variance maximization
+- Geometric properties of covariance matrices
+- Projection techniques and dimensional reduction
+- Geometric optimization in data analysis
+
+**Academic Value**:
+- **Geometric Insight**: Deep understanding of PCA through geometric lens
+- **Mathematical Rigor**: Formal geometric framework for dimensionality reduction
+- **Practical Applications**: Connection between theory and data analysis practice
+- **Research Foundation**: Foundation for advanced geometric data analysis methods
+
+**Target Audience**:
+- Data scientists and machine learning practitioners
+- Mathematicians interested in geometric data analysis
+- Researchers working with dimensionality reduction
+- Students studying geometric methods in statistics
+
 ### Lectures on Generalized Geometry
 
 **Overview**: Comprehensive lecture series covering advanced topics in generalized geometry, providing both theoretical foundations and practical applications.
@@ -26,6 +49,13 @@
 - Applied mathematicians working with geometric methods
 - Students preparing for advanced geometric studies
 
+## 📊 Collection Statistics
+
+- **Total Resources**: 2 PDF documents
+- **Topics Covered**: Principal Component Analysis, Generalized Geometry
+- **Format**: High-quality PDF documents
+- **Focus**: Geometric methods in mathematics and data analysis
+
 ## 🎯 Applications
 
 ### Mathematical Research
@@ -43,7 +73,7 @@
 ## 📚 Learning Path
 
 1. **Foundation**: Basic differential and algebraic geometry
-2. **Core Concepts**: Generalized geometric structures
+2. **Core Concepts**: Generalized geometric structures and PCA geometry
 3. **Advanced Topics**: Specialized geometric theories
 4. **Applications**: Practical implementation and research applications
 
